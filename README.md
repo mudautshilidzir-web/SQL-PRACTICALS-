@@ -8,6 +8,4 @@ Gaining how to write queries , Manage data and  perform basics analytics on Snow
 
 ## tools
 .Snowflake
-## 
-
- and Microsoft Excel.
+and Microsoft Excel.
