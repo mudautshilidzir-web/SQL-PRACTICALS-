@@ -1,6 +1,6 @@
 ## PRACTICAL EXERCISES REPOSIRORY
 
-This repository contains multiple SQL, data analytics, and programming practicals completed as part of learning
+This repository contains multiple SQL  and programming practicals completed as part of learning
 and practice. Each folder includes its own questions, datasets and solutions to complete the exercise.
 
 ## some practical contains:
