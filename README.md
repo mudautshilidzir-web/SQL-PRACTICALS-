@@ -1,7 +1,9 @@
 ## PRACTICAL EXERCISES REPOSIRORY
 
-This repository contains multiple SQL  and programming practicals completed as part of learning
+This repository covers essential SQL practicals skills needed to work with Snowflake.
+Gaining how to write queries , Manage data and  perform basics analytics on Snowflake. Gaining hands-on experience with real datasets. It also contains multiple SQL  and programming practicals completed as part of learning
 and practice. Each folder includes its own questions, datasets and solutions to complete the exercise.
+
 
 ## some practical contains:
 
