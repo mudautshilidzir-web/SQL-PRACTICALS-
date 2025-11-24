@@ -1,4 +1,50 @@
-## SQL-PRACTICAL 01 and 02
+## PRACTICAL EXERCISES REPOSIRORY
+
+This repository contains multiple SQL, data analytics, and programming practicals completed as part of learning
+and practice. Each folder includes its own questions, datasets and solutions to complete the exercise.
+
+## some practical contains:
+
+
+Tasks or questions
+
+SQL and Excel code
+
+Outputs or screenshots 
+
+## Purpose Of This Repository
+
+To track learning progress
+
+To store completed practical tasks
+
+To demonstrate SQL, BigQuery and Microsoft SQL Server
+
+To keep organized solutions for future reference
+
+## Tools Used
+- Snowflake
+
+- Microsoft Excel.
+
+- SQL Server
+
+- BigQuery
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Introduction
